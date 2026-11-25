@@ -1,0 +1,16 @@
+IPTV_MEGA_PLAYLIST.m3u
+ru.m3u
+ru.review.m3u
+ru_final.m3u
+ru_federal.m3u
+ru_clean.m3u
+ru.report.txt
+groups_report.txt
+dedupe_removed.txt
+regional_removed.txt
+kept_names.txt
+added.txt
+cron.log
+run.log
+__pycache__/
+*.pyc
